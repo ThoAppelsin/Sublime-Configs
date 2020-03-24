@@ -1,0 +1,13 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"DiffTabs",
+		"HexViewer",
+		"Markdown to Clipboard",
+		"Package Control"
+	]
+}
